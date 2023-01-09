@@ -1,3 +1,30 @@
+
+<h1> Find Your Next Routine</h1>
+
+<p> 
+  This is an online web application that allows you explore exercises for specific muscle groups. I built this application with the thought of helping someone fulfill their New Year's resolution!
+</p> 
+
+
+<img width="1440" alt="Screen Shot 2022-10-24 at 3 56 49 PM" src="https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(3).gif"
+     alt="Screenshot of the homepage">
+
+<h2> How It's Made:</h2>
+
+<h4>Tech Used: Ejs, BootStrap, Node.js, Express and MongoDB </h4>
+<p> A FullStack Web Application that utlizes EJS as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Passport.js (authentication) and other npm modules such as cloudinary for image storage, multer for mage upload and many more. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features. </p>
+
+<h2> Optimizations</h2>
+
+<p> For this application I would optimize it by allowing videos to be uploaded as well. The app would need to accept video file type uploads, while also adding a feature that allows you to play the video.</p>
+
+<h2> Lessons Learned:</h2>
+<p> This application put the bulk of the concepts I learned into practice. Using MVC architecture to split up the code relating to the front-end, back-end and database was a huge advantage! Additionally, I was able to use passport.js to ensure authentication for actions such as deleting a post. I am looking forward to building more passion projects in the near future!
+</p>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

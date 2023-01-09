@@ -2,7 +2,7 @@
 <h1> Find Your Next Routine</h1>
 
 <p> 
-  This is an online web application that allows you explore exercises for specific muscle groups. I built this application with the thought of helping someone fulfill their New Year's resolution!
+  This is an online web application that allows you explore exercises for specific muscle groups. I built this application with the thought of helping someone fulfill their fitness goals !
 </p> 
 
 
@@ -11,15 +11,15 @@
 
 <h2> How It's Made:</h2>
 
-<h4>Tech Used: Ejs, BootStrap, Node.js, Express and MongoDB </h4>
-<p> A FullStack Web Application that utlizes EJS as the templating language for the front end. The backend is compirsed of Node.js, MongoDB, Express, Passport.js (authentication) and other npm modules such as cloudinary for image storage, multer for mage upload and many more. Utilizing MVC architecture to ensure this application was not only performing well but also being able to debug and add features. </p>
+<h4>Tech Used: React, BootStrap, MaterialUI, RapidAPI </h4>
+<p> A React Web Application that utlizes RapidAPI to pull workouts from a Workout API. The frontend is comprised of React.js and MaterialUI for styling and composing. 
 
 <h2> Optimizations</h2>
 
-<p> For this application I would optimize it by allowing videos to be uploaded as well. The app would need to accept video file type uploads, while also adding a feature that allows you to play the video.</p>
+<p> For this application I would optimize it by updating the individual workout page with videos to show users how to execute the workout with good form. The app would link to Youtube and look up related videos based on the exercise name.</p>
 
 <h2> Lessons Learned:</h2>
-<p> This application put the bulk of the concepts I learned into practice. Using MVC architecture to split up the code relating to the front-end, back-end and database was a huge advantage! Additionally, I was able to use passport.js to ensure authentication for actions such as deleting a post. I am looking forward to building more passion projects in the near future!
+<p> This application put the bulk of the concepts I learned from React in practice. Using different React Hooks help display the data from the Workout API. Also, MaterialUI helped build the bulk of the styling and responsiveness for my application.
 </p>
 
 
@@ -54,44 +54,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

@@ -6,7 +6,7 @@
 </p> 
 
 
-<img width="1440" alt="Screen Shot 2022-10-24 at 3 56 49 PM" src="https://github.com/DeCodeTheMatrix03/Workout-Tracker/blob/main/ezgif.com-gif-maker%20(3).gif"
+<img width="1440" alt="Screen Shot 2022-10-24 at 3 56 49 PM" src="https://github.com/DeCodeTheMatrix03/Workout-Explorer/blob/main/ezgif.com-gif-maker%20(3).gif"
      alt="Screenshot of the homepage">
 
 <h2> How It's Made:</h2>
